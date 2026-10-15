@@ -1,4 +1,4 @@
-# the-bridge-judge-problem
+# El Problema del Juez del Puente
 Paradojas Lógicas Aplicadas a la Programación en C
 
 # 🧠 Paradojas Lógicas Aplicadas a la Programación en C
