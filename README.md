@@ -91,7 +91,7 @@ void viajero_paradojico() {
 ```bash
 git clone https://github.com/4trastos/the-bridge-judge-problem.git
 cd the-bridge-judge-problem
-gcc sancho.c -o sancho
+gcc make
 ./sancho
 ```
 
